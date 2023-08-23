@@ -1,5 +1,9 @@
 <img src="src/assets/img/icon128.png" width="64"/>
 
+[![Chrome web store users](https://img.shields.io/chrome-web-store/users/pfgdmbcgjhcnhegdbpnfcambagenamea.svg)](https://chrome.google.com/webstore/detail/linkedin-video-grabber/pfgdmbcgjhcnhegdbpnfcambagenamea)
+[![Chrome web store rating](https://img.shields.io/chrome-web-store/rating/pfgdmbcgjhcnhegdbpnfcambagenamea.svg)](https://chrome.google.com/webstore/detail/linkedin-video-grabber/pfgdmbcgjhcnhegdbpnfcambagenamea)
+
+
 # LinkedIn Video Grabber Chrome Extension With React
 
 An extension to download LinkedIn videos in your home feed. On each video you can see the download icon and clicking on that icon will download the video to your computer. You can then share that downloaded video (.mp4) via email, WhatsApp etc.
